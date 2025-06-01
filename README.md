@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm a Computer Science Student at FISAT Engineering College<br>I build websites, apps and I'm currently learning ML and AI<br>
+Visit my portfolio : https://portfolio-jibixns-projects.vercel.app/
 
 
 ## 🌐 Socials:
