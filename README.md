@@ -1,5 +1,5 @@
 #  About Me:
-I'm a Computer Science graduate from FISAT Engineering College<br>I build websites, apps, ML and DL models, and I'm currently learning Artificial Intelligence<br>
+I'm a Computer Science graduate from FISAT Engineering College<br>I build websites, apps and I'm currently learning Artificial Intelligence<br>
 Visit my portfolio : https://portfolio-jibixns-projects.vercel.app/
 
 
